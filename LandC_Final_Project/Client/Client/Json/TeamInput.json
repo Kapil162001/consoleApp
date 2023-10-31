@@ -1,0 +1,93 @@
+{
+  "GameType": 1,
+  "Players": [
+    {
+      "PlayerId": 1,
+      "Name": "A"
+    },
+    {
+      "PlayerId": 2,
+      "Name": "B"
+    },
+    {
+      "PlayerId": 3,
+      "Name": "C"
+    },
+    {
+      "PlayerId": 4,
+      "Name": "D"
+    },
+    {
+      "PlayerId": 5,
+      "Name": "E"
+    },
+    {
+      "PlayerId": 6,
+      "Name": "F"
+    },
+    {
+      "PlayerId": 7,
+      "Name": "G"
+    },
+    {
+      "PlayerId": 8,
+      "Name": "H"
+    },
+    {
+      "PlayerId": 9,
+      "Name": "I"
+    },
+    {
+      "PlayerId": 10,
+      "Name": "J"
+    },
+    {
+      "PlayerId": 11,
+      "Name": "K"
+    },
+    {
+      "PlayerId": 12,
+      "Name": "L"
+    },
+    {
+      "PlayerId": 13,
+      "Name": "M"
+    },
+    {
+      "PlayerId": 14,
+      "Name": "N"
+    },
+    {
+      "PlayerId": 15,
+      "Name": "O"
+    },
+    {
+      "PlayerId": 16,
+      "Name": "P"
+    },
+    {
+      "PlayerId": 17,
+      "Name": "Q"
+    },
+    {
+      "PlayerId": 18,
+      "Name": "R"
+    },
+    {
+      "PlayerId": 19,
+      "Name": "S"
+    },
+    {
+      "PlayerId": 20,
+      "Name": "T"
+    },
+    {
+      "PlayerId": 21,
+      "Name": "U"
+    },
+    {
+      "PlayerId": 22,
+      "Name": "V"
+    }
+  ]
+}
